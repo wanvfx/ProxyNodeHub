@@ -4,7 +4,7 @@
 
 ### GitHub free-node repository monitor & aggregator
 
-**English** | [中文](README.md)
+**English** | [中文](README.md) | [日本語](README.ja.md)
 
 ![ProxyNodeHub main interface](images/main.png)
 
